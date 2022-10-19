@@ -1,10 +1,11 @@
 ### Hi there 👋
 ### About me:
-:small_blue_diamond: My name is Lóránt Kiszner
-:small_blue_diamond: I'm 29 years old
-:small_blue_diamond: Currently learning Full stack development at [CodeCool](https://codecool.com/en/)
-:small_blue_diamond: I'm intersted in mostly Front-end
-:small_blue_diamond: I'm looking to collaborate on mini full-stack projects
+- :small_blue_diamond: My name is Lóránt Kiszner
+- :small_blue_diamond: I'm 29 years old
+- :small_blue_diamond: Currently learning Full stack development at [CodeCool](https://codecool.com/en/)
+- :small_blue_diamond: I'm intersted in mostly Front-end
+- :small_blue_diamond: I'm looking to collaborate on mini full-stack projects
+
 
 <!--
 **KLociJS/KLociJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
